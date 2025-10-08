@@ -1,4 +1,4 @@
-# 🛍️ React E-Commerce Website
+# 🛍️ React E-Commerce ShopCart Website
 
 A modern, responsive React E-Commerce web application, built while learning through YouTube tutorials.
 It demonstrates product listings, user authentication, routing, and a reusable component architecture.
@@ -56,7 +56,7 @@ npm run build
 ## References
 This project is built while following tutorials from the YouTube channel:(https://youtu.be/pjEC9d28SKM?si=oeZ4oUh_La99kvDE)
 
-
+## Screenshort
 
 ![alt text](<Screenshot 2025-10-08 123334.png>)
 ![alt text](<Screenshot 2025-10-08 123408.png>)
