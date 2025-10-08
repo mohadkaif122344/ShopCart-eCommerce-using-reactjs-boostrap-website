@@ -1,12 +1,10 @@
-# React + Vite
-
-🛍️ React E-Commerce Website
+# 🛍️ React E-Commerce Website
 
 A modern, responsive React E-Commerce web application, built while learning through YouTube tutorials.
 It demonstrates product listings, user authentication, routing, and a reusable component architecture.
 The project is built using the latest React ecosystem and is fully responsive, styled with Bootstrap and custom CSS.
 
-📋 Features
+## 📋 Features
 
 🏠 Home Page – Hero banner, product categories, and featured collections
 
@@ -37,7 +35,7 @@ The project is built using the latest React ecosystem and is fully responsive, s
   - IcoFont & custom CSS for styling
   - Firebase Authentication (Email/Password & Google OAuth)
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/mohadkaif122344/react-ecommerce.git
 
@@ -55,10 +53,8 @@ Visit 👉 http://localhost:5173
 🏗️ Build for Production
 npm run build
 
-References
-
-This project is built while following tutorials from the YouTube channel:
-[text](https://youtu.be/pjEC9d28SKM?si=oeZ4oUh_La99kvDE)
+## References
+This project is built while following tutorials from the YouTube channel:[text](https://youtu.be/pjEC9d28SKM?si=oeZ4oUh_La99kvDE)
 
 ![alt text](<Screenshot 2025-10-08 123334.png>)
 ![alt text](<Screenshot 2025-10-08 123408.png>)
