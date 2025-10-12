@@ -4,6 +4,8 @@ A modern, responsive React E-Commerce web application, built while learning thro
 It demonstrates product listings, user authentication, routing, and a reusable component architecture.
 The project is built using the latest React ecosystem and is fully responsive, styled with Bootstrap and custom CSS.
 
+📎 “Live Demo: https://ecommerce-web-using-react-bootstrap.netlify.app”
+
 ## 📋 Features
 
 🏠 Home Page – Hero banner, product categories, and featured collections
