@@ -55,8 +55,6 @@ Visit 👉 http://localhost:5173
 🏗️ Build for Production
 npm run build
 
-## References
-This project is built while following tutorials from the YouTube channel:(https://youtu.be/pjEC9d28SKM?si=oeZ4oUh_La99kvDE)
 
 ## Screenshort
 
